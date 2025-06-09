@@ -106,6 +106,8 @@ Payment Status: Pending
 
 
 
-Your Name – mahekrajput001@gmail.com
+ Name –Mahak Rajput
+ email id-mahekrajput001@gmail.com
+ mahak.24sbbs1170130@galgotiasuniversity.ac.in
 
 
