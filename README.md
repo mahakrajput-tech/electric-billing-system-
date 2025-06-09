@@ -11,6 +11,9 @@ This Java console application is an Electric Billing System that allows utility 
 - View customer bill history
 - View all registered customers
 - Mark bills as paid
+- input validation and erroe handling
+- enter meter reading
+- calculate electricity bill
 
 ## Project Structure
 Here’s a complete example of how your Electric Billing System (Java) repository should be structured, including a well-organized directory and a sample README.md file tailored to your code.
@@ -56,6 +59,8 @@ src/ └── com/ └── billing/ ├── BillingSystem.java         # Ma
 2. Compile the Code If using the command line:
 
 javac -d out src/com/billing/*.java
+or 
+Compile with javac *.java
 
 
 3. Run the Application
@@ -63,6 +68,7 @@ javac -d out src/com/billing/*.java
 java -cp out com.billing.BillingSystem
 
 Or simply run BillingSystem.java directly from your IDE.
+or run with java main
 
 
 
